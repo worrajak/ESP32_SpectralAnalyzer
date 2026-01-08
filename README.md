@@ -17,6 +17,16 @@ This project implements a **Maximum Power Point Tracking (MPPT) Solar Charge Con
 
 ## 📋 Hardware Architecture
 
+### Schematic Reference
+
+This design is based on a **Synchronous Buck Converter** topology. Below is the reference schematic:
+
+![MPPT Solar Charge Controller Schematic](https://content.instructables.com/FVA/1COL/KT4D9PJB/FVA1COLKT4D9PJB.png?_gl=1*1vmapzx*_ga*ODc2ODc3Njc2LjE3NTk3MzY1MTQ.*_ga_NZSJ72N6RX*czE3Njc4NTYzOTYkbzIkZzEkdDE3Njc4NTYzOTYkajYwJGwwJGgw)
+
+*Reference schematic from Instructables - Synchronous Buck MPPT Solar Charge Controller*
+
+---
+
 ### Block Diagram
 ```
 Solar Panel (Up to 60V)
