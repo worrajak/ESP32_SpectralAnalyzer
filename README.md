@@ -12,6 +12,10 @@ This project implements a **Maximum Power Point Tracking (MPPT) Solar Charge Con
 - ✅ **20 kHz PWM Control**: For quiet, efficient operation
 - ✅ **Efficiency Calculation**: Real-time system efficiency tracking
 - ✅ **Over-current/Over-voltage Protection**: Built-in safety features
+- ✅ **Multi-Node Distributed System**: 4× nodes with ESP-NOW wireless control
+- ✅ **Fault Detection & Automatic Compensation**: Detects failed nodes and adjusts voltage
+- ✅ **Series Panel Configuration**: 4 nodes × 12V = 48V battery charging
+- ✅ **Automatic Redundancy**: If one panel fails, remaining nodes boost voltage
 
 ---
 
@@ -460,6 +464,110 @@ For issues, questions, or suggestions:
 - [ ] Network synchronization for multi-unit systems
 - [ ] Web interface dashboard
 - [ ] Email alerts for fault conditions
+
+---
+
+## 📋 Project Versions & Architectures
+
+### Version 1.0: Single-Node MPPT
+- Single ESP32 with ADS1015 ADC
+- Direct battery charging from solar panel
+- Basic MPPT with local control only
+- Simple serial monitoring
+
+### Version 2.0: Multi-Node Distributed System (Current)
+- **Master Controller**: Central intelligence with WiFi/ESP-NOW
+- **4× Node Controllers**: Individual nodes in series configuration
+- **Architecture**: 
+  ```
+  Panel 1 → Node 1 (12V) ┐
+  Panel 2 → Node 2 (12V) ├→ Series Chain → 48V Battery
+  Panel 3 → Node 3 (12V) ├→ (with Bypass Diodes)
+  Panel 4 → Node 4 (12V) ┘
+  ```
+
+- **Wireless Protocol**: ESP-NOW (2.4 GHz mesh)
+- **Control Levels**:
+  1. System-level optimization (master directs overall voltage)
+  2. Node balancing (ensure all nodes at same voltage)
+  3. Individual MPPT (each node tracks its own MPP within constraints)
+
+- **Fault Detection & Compensation**:
+  - Master detects failed nodes (offline, no power, voltage collapse)
+  - Automatically recalculates voltage: 48V ÷ (number of working nodes)
+  - Example: If 1 node fails → 48V ÷ 3 = 16V per remaining node
+  - Includes 6-level fault status codes (NORMAL, SHADING, SOFT_FAULT, HARD_FAULT, etc.)
+  - Bypass diodes prevent blocking of series chain
+
+---
+
+## 🔌 Multi-Node System Components
+
+### Master Controller
+- Purpose: Central control and optimization
+- Location: `src/master_controller.cpp`
+- Functions:
+  - Broadcasts voltage setpoints every 2 seconds
+  - Monitors 4 node status reports
+  - Implements 3-level voltage optimization
+  - Detects node failures (offline, power loss, shading)
+  - Calculates automatic voltage compensation
+  - Reports system state and node diagnostics
+
+### Node Controller (×4)
+- Purpose: Individual panel control with local MPPT
+- Location: `src/node_controller.cpp`
+- Functions:
+  - Receives voltage setpoint from master
+  - Performs local MPPT within master's constraints
+  - Measures voltage, current, power via ADS1015
+  - Detects local faults (voltage collapse, power loss, shading)
+  - Reports status to master every 2 seconds
+
+### Enhanced Fault Detection
+- Location: `src/master_enhancements.cpp` and `src/node_enhancements.cpp`
+- Features:
+  - Multi-level fault detection (soft vs hard faults)
+  - Power trend analysis (compares current vs previous power)
+  - Voltage/current collapse detection
+  - Automatic compensation calculation
+  - Serial diagnostic output
+
+### Integration Guide
+- Location: `INTEGRATION_GUIDE.md`
+- Covers:
+  - Step-by-step code integration instructions
+  - Hardware bypass diode specifications
+  - Testing procedures for fault scenarios
+  - Serial output examples
+  - Troubleshooting guide
+
+---
+
+## 🛡️ Fault Detection Thresholds
+
+| Condition | Threshold | Action |
+|-----------|-----------|--------|
+| Node Offline (no response) | >5 seconds | Emergency stop or compensation |
+| Voltage Collapse | <5V | Mark as HARD_FAULT |
+| Power Loss | <1W | Mark as HARD_FAULT |
+| Current Collapse | <0.5A | Mark as HARD_FAULT |
+| Power Drop | >90% from baseline | SOFT_FAULT or HARD_FAULT |
+| Voltage Imbalance | >1V difference | Adjust master voltage |
+| Efficiency Drop | <80% | Reduce voltage setpoint |
+
+---
+
+## 📊 Node Status Codes
+
+```cpp
+#define NODE_STATUS_NORMAL        0     // Operating normally
+#define NODE_STATUS_SHADING       1     // Partial shading detected
+#define NODE_STATUS_OVERVOLTAGE   2     // Output voltage too high
+#define NODE_STATUS_OVERCURRENT   3     // Output current too high
+#define NODE_STATUS_SOFT_FAULT    254   // Severe degradation (90% power loss)
+#define NODE_STATUS_HARD_FAULT    255   // Complete failure (no power)
+```
 
 ---
 
