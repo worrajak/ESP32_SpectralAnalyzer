@@ -1,150 +1,113 @@
-# ESP32 DC Optimizer with MPPT
+# ESP32 Spectrum Analyzer with OLED Display
 
 ## 🔋 Project Overview
 
-This project implements a **Maximum Power Point Tracking (MPPT) Solar Charge Controller** using the **ESP32 microcontroller** with a **Synchronous Buck Converter** topology. The system efficiently charges batteries from solar panels by continuously tracking and maintaining the maximum power point of the PV array.
+This project implements a **Real-time Spectral Analysis System** using the **ESP32 microcontroller** with the **AS7343 11-channel spectral sensor** and an **SSD1306 OLED display** for real-time visualization. The system measures plant health indicators through spectral data analysis including NDVI, Chlorophyll levels, Water stress, and Photosynthesis indices.
 
 ### Key Features
-- ✅ **MPPT Algorithm**: Perturb & Observe (P&O) method
-- ✅ **ADS1015 External ADC**: 12-bit precision for voltage/current measurements
-- ✅ **Synchronous Buck Converter**: Efficient DC-DC step-down with low losses
-- ✅ **Real-time Monitoring**: Solar panel and battery parameters
-- ✅ **20 kHz PWM Control**: For quiet, efficient operation
-- ✅ **Efficiency Calculation**: Real-time system efficiency tracking
-- ✅ **Over-current/Over-voltage Protection**: Built-in safety features
-- ✅ **Multi-Node Distributed System**: 4× nodes with ESP-NOW wireless control
-- ✅ **Fault Detection & Automatic Compensation**: Detects failed nodes and adjusts voltage
-- ✅ **Series Panel Configuration**: 4 nodes × 12V = 48V battery charging
-- ✅ **Automatic Redundancy**: If one panel fails, remaining nodes boost voltage
+- ✅ **AS7343 Spectral Sensor**: 11-channel multi-spectral measurements
+- ✅ **Real-time NDVI Calculation**: Vegetation health index tracking
+- ✅ **Multiple Plant Health Indices**: Chlorophyll, Anthocyanin, Water Stress, Photosynthesis, Carotenoid, Red:FarRed ratio
+- ✅ **Health Level Scaling**: 0-5 scale for easy interpretation (Vigor, Chlorophyll, Stress, Water levels)
+- ✅ **SSD1306 OLED Display**: 128×64 pixel real-time data visualization
+- ✅ **Improved UI Layout**: Clean organized display with:
+  - Header with section title
+  - Multi-column data organization
+  - Visual separator line
+  - Health status indicator
+- ✅ **Precise Spectral Analysis**: Dark calibration and white balance correction
+- ✅ **I2C Communication**: AS7343 sensor (address: 0x39) with burst mode support
+- ✅ **Serial Monitoring**: Real-time data output for debugging and logging
+- ✅ **LoRa Radio Ready**: RadioHead library integrated for wireless capability
 
 ---
 
 ## 📋 Hardware Architecture
 
-### Schematic Reference
+### Core Components
 
-This design is based on a **Synchronous Buck Converter** topology. Below is the reference schematic:
+#### **Main Microcontroller**
+- **Freenove ESP32 WROVER**
+  - Dual-core 240 MHz Xtensa CPU
+  - 4MB PSRAM, 4MB Flash
+  - WiFi & Bluetooth connectivity
+  - 12-bit SAR ADC (not used - external ADC preferred)
 
-![MPPT Solar Charge Controller Schematic](https://content.instructables.com/FVA/1COL/KT4D9PJB/FVA1COLKT4D9PJB.png?_gl=1*1vmapzx*_ga*ODc2ODc3Njc2LjE3NTk3MzY1MTQ.*_ga_NZSJ72N6RX*czE3Njc4NTYzOTYkbzIkZzEkdDE3Njc4NTYzOTYkajYwJGwwJGgw)
+#### **Spectral Sensor**
+- **AS7343 11-channel Spectral Sensor**
+  - I2C Address: 0x39
+  - Channels: 415nm, 445nm, 480nm, 515nm, 555nm, 590nm, 630nm, 680nm, 780nm, 860nm, 910nm
+  - Provides full spectrum coverage for vegetation analysis
+  - Built-in LED control for consistent measurements
+  - Supports dark calibration and white balance
 
-*Reference schematic from Instructables - Synchronous Buck MPPT Solar Charge Controller*
+#### **Display**
+- **SSD1306 OLED Display**
+  - I2C Address: 0x3C
+  - Resolution: 128 × 64 pixels
+  - Real-time spectral data visualization
+  - Improved UI with organized layout
 
----
-
-### Block Diagram
-```
-Solar Panel (Up to 60V)
-        ↓
-[Input Protection] ← Fuse (F1: 30A)
-        ↓
-[MOSFET Driver] ← High-side (Q1, Q3) & Low-side (Q2, Q4)
-        ↓
-[Synchronous Buck Converter]
-        ↓
-[Output Inductor] → [Output Filter Capacitor]
-        ↓
-[Battery] (12V nominal)
-```
-
-### Circuit Components
-
-#### **Power Stage**
-| Component | Part Number | Function |
-|-----------|------------|----------|
-| High-side MOSFET | IRF2104EN | Gate drive for high-side FET |
-| Low-side MOSFET | IRF2104EN | Gate drive for low-side FET |
-| Power MOSFETs | IRF3205 | Main switching elements (Q1-Q4) |
-| Catch Diode | SB3100 | Freewheeling diode |
-| Input Inductor (L1) | 100µH | Input current smoothing |
-| Output Inductor (L2) | 100µH | Output current smoothing |
-| Input Capacitor | 470µF | Input filtering |
-| Output Capacitor | 100µF | Output filtering |
-
-#### **Voltage Regulators**
-- **3.3V Buck Regulator** (XL7005A): Powers ESP32 and ADS1015
-- **5V Regulator** (AMS1117-5.0): Powers peripheral circuits
-- **12V Regulator** (Optional): For external devices
-
-#### **Sensing Circuit**
-| Signal | Input | Sensor | Scale |
-|--------|-------|--------|-------|
-| Solar Voltage (A3) | 0-60V | Resistive Divider (R1, R2) | ~0.03V/step |
-| Solar Current (A2) | 0-30A | Current Sense (CSR1015GS) | ~0.002A/step |
-| Battery Voltage (A1) | 0-25V | Resistive Divider | ~0.015V/step |
-| Battery Current (A0) | 0-10A | Current Sense | ~0.003A/step |
-
-#### **Control & Communication**
-- **ESP32 Microcontroller** (Freenove WROVER)
-  - 2-core, 240 MHz CPU
-  - WiFi & Bluetooth capabilities
-  - 12-bit ADC (internal, not used in this design)
-  
-- **ADS1015 External ADC** (I2C address: 0x48)
-  - 12-bit resolution
-  - 4 Single-ended inputs
-  - ±4.096V range
-  - I2C Communication (GPIO2=SCL, GPIO4=SDA)
-
-- **USB-TTL Serial Interface** (CH340)
-  - For programming and serial monitoring
-  - GPIO19 (TX), GPIO23 (RX)
+#### **Communication**
+- **RadioHead Library**
+  - LoRa radio support ready
+  - Multi-node capability
+  - Wireless sensor network potential
 
 ---
 
 ## 🎛️ GPIO Pin Mapping
 
-### PWM Control (Synchronous Buck)
+### I2C Bus (AS7343 & SSD1306)
 | GPIO | Signal | Function |
 |------|--------|----------|
-| 14 | PWM_HIGH | High-side FET drive (20 kHz) |
-| 27 | PWM_LOW | Low-side FET drive (complementary) |
+| 22 (GPIO22) | SCL | I2C Clock |
+| 21 (GPIO21) | SDA | I2C Data |
 
-### I2C Interface (ADS1015)
+### SPI Bus (LoRa Radio - Future)
 | GPIO | Signal | Function |
 |------|--------|----------|
-| 2 | SCL | I2C Clock |
-| 4 | SDA | I2C Data |
+| 5 | CS | Chip Select |
+| 18 | SCK | Clock |
+| 23 | MOSI | Master Out |
+| 19 | MISO | Master In |
 
-### UART Interface
+### Interrupt Pins
 | GPIO | Signal | Function |
 |------|--------|----------|
-| 19 | TX | Serial TX |
-| 23 | RX | Serial RX |
-
-### Interface Ports (for future expansion)
-| GPIO | Port | Function |
-|------|------|----------|
-| 27 | GPIO Interface Port | Spare GPIO |
-| 14 | GPIO Interface Port | Spare GPIO |
-| 10, 9, 17, 16 | Interface Port | Additional expansion |
+| 15 | LoRa DIO0 | Interrupt (when implemented) |
 
 ---
 
-## 📊 ADS1015 ADC Channel Assignment
+## 📊 AS7343 Sensor Channels
 
-The ADS1015 has 4 single-ended input channels for measuring system parameters:
+The AS7343 provides 11 spectral channels for complete vegetation analysis:
 
 ```
-┌─────────────────────────────────────┐
-│      ADS1015 (12-bit ADC)           │
-│   Address: 0x48 (I2C)               │
-├─────────────────────────────────────┤
-│  Channel  │  Signal          │ Use   │
-├───────────┼──────────────────┼───────┤
-│    A0     │ Batt Current     │ Output│
-│    A1     │ Batt Voltage     │ Output│
-│    A2     │ Solar Current    │ Input │
-│    A3     │ Solar Voltage    │ Input │
-└─────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│        AS7343 11-Channel Spectral Sensor              │
+│   Address: 0x39 (I2C) - 400kHz standard mode          │
+├───────────────────────────────────────────────────────┤
+│ Channel │ Wavelength │ Color    │ Application         │
+├─────────┼────────────┼──────────┼─────────────────────┤
+│   CH0   │ 415 nm     │ Violet   │ Anthocyanin         │
+│   CH1   │ 445 nm     │ Blue     │ Chlorophyll A       │
+│   CH2   │ 480 nm     │ Blue     │ Chlorophyll B       │
+│   CH3   │ 515 nm     │ Green    │ Carotenoid          │
+│   CH4   │ 555 nm     │ Green    │ Green Reflectance   │
+│   CH5   │ 590 nm     │ Yellow   │ Carotenoid/Xantho   │
+│   CH6   │ 630 nm     │ Red      │ NDVI Red (Primary)  │
+│   CH7   │ 680 nm     │ Red      │ Chlorophyll Edge    │
+│   CH8   │ 780 nm     │ NIR      │ NDVI NIR (Primary)  │
+│   CH9   │ 860 nm     │ NIR      │ Water Absorption    │
+│  CH10   │ 910 nm     │ NIR      │ Water Absorption 2  │
+│ CLEAR   │ Broadband  │ White    │ Overall Intensity   │
+└───────────────────────────────────────────────────────┘
 ```
 
-### Voltage Scaling
-- **A3 (Solar Voltage)**: 0-60V input → 0-2047 ADC counts
-  - Scale: 0.03V per ADC step
-  - Divider: R1 (200kΩ) + R2 (5.1kΩ)
-  
-- **A1 (Battery Voltage)**: 0-25V input → 0-2047 ADC counts
-  - Scale: 0.015V per ADC step
+---
+
+## 📈 Spectral Indices Calculated
   - Divider: Similar ratio design
 
 - **A2 (Solar Current)**: 0-30A input
@@ -196,21 +159,54 @@ The ADS1015 has 4 single-ended input channels for measuring system parameters:
 
 ---
 
-## 📈 System Parameters
+## 📈 Spectral Indices Calculated
 
-### Electrical Specifications
-| Parameter | Min | Typical | Max | Unit |
-|-----------|-----|---------|-----|------|
-| Input Voltage (Solar) | 12 | 36 | 60 | V |
-| Output Voltage (Battery) | 10 | 12.6 | 16 | V |
-| Input Current | 0 | 15 | 30 | A |
-| Output Current | 0 | 20 | 40 | A |
-| Switching Frequency | - | 20 | - | kHz |
-| Efficiency @ Full Load | - | >95 | - | % |
+The system calculates multiple vegetation health indices for comprehensive plant analysis:
 
-### Thermal
-- Operating Temperature: -10°C to +60°C
-- Switching losses are minimal due to synchronous topology
+| Index | Formula | Range | Application |
+|-------|---------|-------|-------------|
+| **NDVI** | (NIR - RED) / (NIR + RED) | -1 to +1 | Overall vegetation vigor |
+| **Chlorophyll Index** | (NIR / RED) - 1 | 0-3+ | Leaf chlorophyll content |
+| **Anthocyanin Index** | (515 - 415) / (515 + 415) | 0-1 | Stress/pigment indicator |
+| **Water Stress Index** | (NIR - GREEN) / (NIR + GREEN) | -1 to +1 | Plant water status |
+| **Red:FarRed Ratio** | RED / NIR | 0-1 | Photosynthetic capacity |
+| **Photosynthesis Index** | (NIR - BLUE) / (NIR + BLUE) | -1 to +1 | Active photosynthesis |
+| **Carotenoid Index** | (Yellow - Blue) / (Yellow + Blue) | -1 to +1 | Stress pigments |
+
+### Health Level Scale (0-5)
+Each index is mapped to a health level (0-5) for easy interpretation:
+
+- **0**: Critical (severe stress/disease)
+- **1**: Poor (significant issues detected)
+- **2**: Fair (below optimal)
+- **3**: Good (healthy)
+- **4**: Very Good (excellent condition)
+- **5**: Excellent (peak health)
+
+---
+
+## 💾 OLED Display Features
+
+The 128×64 pixel OLED display shows real-time spectral analysis with an improved layout:
+
+```
+═══ SPECTRAL ANALYSIS ═══
+NDVI: 0.75  Clear: 1024
+Chlor: 2.34 Anth: 0.42
+Water: 0.68 R:FR: 0.52
+Photo: 0.71 Car: 0.28
+─────────────────────────
+Health:V:4 C:4 S:3 W:4
+Status: OK
+```
+
+**Display Features:**
+- Real-time data updates (every 1 second)
+- 2-column organized layout for data density
+- Visual separator line for clarity
+- Health level indicators (0-5 scale)
+- Sensor status indicator
+- Precise 2-decimal formatting
 
 ---
 
@@ -218,23 +214,177 @@ The ADS1015 has 4 single-ended input channels for measuring system parameters:
 
 ### Prerequisites
 - PlatformIO IDE with ESP32 support
-- Adafruit ADS1X15 library (v2.4.0+)
-- Adafruit BusIO library (v1.14.5+)
+- Adafruit SSD1306 library (v2.5.0+)
+- Adafruit GFX Library (v1.11.0+)
+- RadioHead library (latest)
+- ESP32 Freenove WROVER board
 
 ### Installation
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/worrajak/ESP32_DCOptimizer.git
-   cd "DC Optimizer with MPPT"
+   cd SpectrumAnalyzer
    ```
 
 2. **Install dependencies** (automatic with PlatformIO):
    ```bash
-   pio run -t download
+   pio run
    ```
 
-3. **Build the project**:
+3. **Configure the board** (platformio.ini):
+   ```ini
+   [env:freenove_esp32_wrover]
+   platform = espressif32
+   board = freenove_esp32_wrover
+   framework = arduino
+   monitor_speed = 115200
+   upload_speed = 460800
+   ```
+
+4. **Build and upload**:
+   ```bash
+   pio run --target upload --upload-port COM9
+   ```
+
+5. **Monitor serial output**:
+   ```bash
+   pio device monitor --port COM9 --baud 115200
+   ```
+
+---
+
+## 📝 Usage
+
+### Main Loop Operation
+```cpp
+// Main operation cycle:
+1. Read AS7343 spectral sensor
+2. Apply dark calibration & white balance
+3. Calculate all vegetation indices
+4. Calculate health levels (0-5)
+5. Display data on OLED
+6. Output to Serial for logging
+```
+
+### Serial Output Format
+```
+NDVI: 0.75  Chlor: 2.34  Anth: 0.42  Water: 0.68
+R:FR: 0.52  Photo: 0.71  Car: 0.28
+Health - V:4 C:4 S:3 W:4
+```
+
+---
+
+## 🔧 Configuration
+
+### Sensor Calibration
+Dark calibration is performed on startup to eliminate sensor offset. White balance can be manually triggered by uncommenting in the code.
+
+### Display Update Rate
+Modify `UPDATE_INTERVAL` in `src/main.cpp` (default: 1000ms)
+
+### Sensor Read Rate  
+Modify `SENSOR_READ_INTERVAL` in `src/main.cpp` (default: 500ms)
+
+---
+
+## 📁 Project Structure
+
+```
+SpectrumAnalyzer/
+├── src/
+│   └── main.cpp                 # Main program
+├── include/
+│   ├── as7343_sensor.h          # AS7343 sensor driver
+│   ├── oled_display.h           # OLED display functions
+│   ├── spectral_analysis.h      # Index calculations
+│   ├── data_structures.h        # Data types & structures
+│   ├── hardware_init.h          # Hardware initialization
+│   ├── lora_config.h            # LoRa configuration
+│   └── lora_functions.h         # LoRa functions
+├── lib/
+│   └── (third-party libraries)
+├── platformio.ini               # PlatformIO configuration
+└── README.md                    # This file
+```
+
+---
+
+## 🐛 Troubleshooting
+
+### AS7343 Not Detected
+- Verify I2C connection (SCL on GPIO22, SDA on GPIO21)
+- Check I2C address with I2C scanner
+- Ensure sensor is powered (3.3V)
+
+### OLED Display Not Showing
+- Verify I2C address is 0x3C
+- Check I2C bus voltage (should be 3.3V)
+- Try I2C scanner to confirm detection
+
+### Serial Output Not Visible
+- Ensure USB cable is connected
+- Check UART pins (TX: GPIO19, RX: GPIO23)
+- Set baud rate to 115200
+
+### Poor Spectral Readings
+- Check sensor lens is clean
+- Ensure adequate ambient/LED light
+- Verify dark calibration was performed
+- Check white balance calibration
+
+---
+
+## 📊 Version History
+
+### v2.1 (2026-02-01)
+- ✅ Improved OLED display layout with better alignment
+- ✅ Multi-column data organization for clarity
+- ✅ Visual separator line for section division
+- ✅ Updated README with spectral analysis documentation
+- ✅ Health level scaling 0-5 for easy interpretation
+
+### v2.0 (2026-01-31)
+- ✅ AS7343 spectral sensor integration
+- ✅ Real-time NDVI and health indices
+- ✅ SSD1306 OLED display support
+- ✅ LoRa radio support ready
+- ✅ Serial data logging
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 👤 Author
+
+**Worrajak**
+- GitHub: [@worrajak](https://github.com/worrajak)
+- Project: [ESP32_DCOptimizer](https://github.com/worrajak/ESP32_DCOptimizer)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### Prerequisites
+- PlatformIO IDE with ESP32 support
+- Adafruit SSD1306 library (v2.5.0+)
+- Adafruit GFX Library (v1.11.0+)
+- RadioHead library (latest)
+- ESP32 Freenove WROVER board
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/worrajak/ESP32_DCOptimizer.git
+   cd SpectrumAnalyzer
    ```bash
    pio run
    ```
