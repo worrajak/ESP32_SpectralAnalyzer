@@ -1,5 +1,12 @@
 # ESP32 Spectrum Analyzer with OLED Display
 
+🌱 **Real-time Plant Health Monitoring using Spectral Analysis**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ESP32_SpectralAnalyzer-blue?logo=github)](https://github.com/worrajak/ESP32_SpectralAnalyzer)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-PlatformIO-orange)](https://platformio.org/)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/worrajak/ESP32_SpectralAnalyzer)
+
 ## 🔋 Project Overview
 
 This project implements a **Real-time Spectral Analysis System** using the **ESP32 microcontroller** with the **AS7343 11-channel spectral sensor** and an **SSD1306 OLED display** for real-time visualization. The system measures plant health indicators through spectral data analysis including NDVI, Chlorophyll levels, Water stress, and Photosynthesis indices.
@@ -207,6 +214,22 @@ Status: OK
 - Health level indicators (0-5 scale)
 - Sensor status indicator
 - Precise 2-decimal formatting
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/worrajak/ESP32_SpectralAnalyzer.git
+cd ESP32_SpectralAnalyzer
+
+# Build and upload to ESP32 on COM9
+pio run --target upload --upload-port COM9
+
+# Monitor serial output
+pio device monitor --port COM9 --baud 115200
+```
 
 ---
 
@@ -721,5 +744,36 @@ For issues, questions, or suggestions:
 
 ---
 
-**Last Updated**: January 8, 2026
-**Version**: 1.0.0
+## 📊 Node Status Codes
+
+```cpp
+#define NODE_STATUS_NORMAL        0     // Operating normally
+#define NODE_STATUS_SHADING       1     // Partial shading detected
+#define NODE_STATUS_OVERVOLTAGE   2     // Output voltage too high
+#define NODE_STATUS_OVERCURRENT   3     // Output current too high
+#define NODE_STATUS_SOFT_FAULT    254   // Severe degradation (90% power loss)
+#define NODE_STATUS_HARD_FAULT    255   // Complete failure (no power)
+```
+
+---
+
+## 📝 Recent Updates
+
+- **v2.1** (2026-02-01): Improved OLED display layout with multi-column organization
+- **v2.0** (2026-01-31): AS7343 spectral sensor integration complete
+- **v1.0** (2026-01-15): Initial project setup
+
+---
+
+## 🔗 Links & Resources
+
+- **GitHub Repository**: [ESP32_SpectralAnalyzer](https://github.com/worrajak/ESP32_SpectralAnalyzer)
+- **PlatformIO**: [platformio.org](https://platformio.org/)
+- **AS7343 Datasheet**: [Spectral Sensor Specifications](https://ams.com/as7343)
+- **ESP32 Documentation**: [espressif.com](https://www.espressif.com/)
+
+---
+
+**Last Updated**: February 1, 2026  
+**Version**: 2.1  
+**Repository**: [ESP32_SpectralAnalyzer](https://github.com/worrajak/ESP32_SpectralAnalyzer)
