@@ -1,0 +1,20 @@
+--- Terminal on COM13 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[LoRa RX] Len: 30 | RSSI: -38 | CRC RX: 0xADA7 CALC: 0xADA7
+[DECRYPTED] N:104|S:152|T:28|H:51|B:3300
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready
+[AS7343] Sensor not ready

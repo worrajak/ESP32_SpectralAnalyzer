@@ -1,0 +1,10 @@
+﻿C:\Users\worra\.platformio\penv\Scripts\platformio.exe : Usage: platformio device monitor [OPTIONS]
+At line:1 char:1
++ C:\Users\worra\.platformio\penv\Scripts\platformio.exe device monitor ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Usage: platform...nitor [OPTIONS]:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Try 'platformio device monitor -h' for help.
+
+Error: Got unexpected extra argument (115200)

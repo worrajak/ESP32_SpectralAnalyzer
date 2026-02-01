@@ -1,0 +1,4374 @@
+--- Terminal on COM13 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+[DEBUG] Ch - 415:477 445:723 545:626 580:16998
+[AS7343] 415:477 445:723 480:646 510:24 545:626 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.15
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:728 545:634 580:16998
+[AS7343] 415:482 445:728 480:651 510:24 545:634 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.81
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:477 445:721 545:626 580:16999
+[AS7343] 415:477 445:721 480:645 510:24 545:626 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.15
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:706 545:611 580:16999
+[AS7343] 415:465 445:706 480:631 510:23 545:611 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.82
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:719 545:624 580:16998
+[AS7343] 415:474 445:719 480:642 510:24 545:624 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.24
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:718 545:623 580:16999
+[AS7343] 415:474 445:718 480:642 510:24 545:623 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.29
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:705 545:610 580:16999
+[AS7343] 415:464 445:705 480:629 510:24 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:704 545:610 580:16999
+[AS7343] 415:464 445:704 480:629 510:23 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:481 445:729 545:632 580:16998
+[AS7343] 415:481 445:729 480:651 510:24 545:632 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.90
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:477 445:721 545:626 580:16999
+[AS7343] 415:477 445:721 480:644 510:24 545:626 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.15
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:706 545:612 580:16999
+[AS7343] 415:465 445:706 480:631 510:24 545:612 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.78
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:475 445:719 545:624 580:16999
+[AS7343] 415:475 445:719 480:642 510:24 545:624 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.24
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:481 445:728 545:632 580:16998
+[AS7343] 415:481 445:728 480:651 510:24 545:632 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.90
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:705 545:610 580:16999
+[AS7343] 415:464 445:705 480:630 510:24 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:704 545:610 580:16999
+[AS7343] 415:464 445:704 480:629 510:23 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:728 545:633 580:16999
+[AS7343] 415:482 445:728 480:651 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:476 445:721 545:626 580:16999
+[AS7343] 415:476 445:721 480:645 510:24 545:626 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.15
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:466 445:707 545:613 580:16999
+[AS7343] 415:466 445:707 480:632 510:24 545:613 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.73
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:719 545:624 580:16998
+[AS7343] 415:474 445:719 480:643 510:24 545:624 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.24
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:729 545:633 580:16999
+[AS7343] 415:480 445:729 480:651 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:479 445:725 545:629 580:16999
+[AS7343] 415:479 445:725 480:647 510:24 545:629 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.03
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:705 545:610 580:16999
+[AS7343] 415:464 445:705 480:629 510:23 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:473 445:714 545:621 580:16999
+[AS7343] 415:473 445:714 480:640 510:24 545:621 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.37
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:476 445:721 545:625 580:16999
+[AS7343] 415:476 445:721 480:644 510:24 545:625 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.20
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:706 545:611 580:16999
+[AS7343] 415:465 445:706 480:631 510:23 545:611 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.82
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:704 545:609 580:16999
+[AS7343] 415:464 445:704 480:629 510:23 545:609 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.91
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:729 545:634 580:16998
+[AS7343] 415:482 445:729 480:651 510:24 545:634 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.81
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:476 445:721 545:625 580:16999
+[AS7343] 415:476 445:721 480:644 510:24 545:625 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.20
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:705 545:611 580:16999
+[AS7343] 415:464 445:705 480:629 510:24 545:611 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.82
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:477 445:723 545:627 580:16998
+[AS7343] 415:477 445:723 480:645 510:24 545:627 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.11
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:729 545:633 580:16998
+[AS7343] 415:482 445:729 480:651 510:24 545:633 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:463 445:703 545:608 580:16999
+[AS7343] 415:463 445:703 480:628 510:23 545:608 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.96
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:468 445:711 545:615 580:16999
+[AS7343] 415:468 445:711 480:635 510:23 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.64
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:479 445:724 545:629 580:16999
+[AS7343] 415:479 445:724 480:647 510:24 545:629 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.03
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:467 445:709 545:614 580:16999
+[AS7343] 415:467 445:709 480:633 510:23 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:463 445:703 545:609 580:16999
+[AS7343] 415:463 445:703 480:628 510:23 545:609 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.91
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:472 445:714 545:620 580:16999
+[AS7343] 415:472 445:714 480:639 510:24 545:620 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.42
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:476 445:721 545:626 580:16999
+[AS7343] 415:476 445:721 480:644 510:24 545:626 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.15
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:705 545:610 580:16999
+[AS7343] 415:464 445:705 480:630 510:23 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:724 545:628 580:16999
+[AS7343] 415:478 445:724 480:646 510:24 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:728 545:633 580:16999
+[AS7343] 415:482 445:728 480:650 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:714 545:619 580:16999
+[AS7343] 415:471 445:714 480:638 510:24 545:619 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:714 545:619 580:16998
+[AS7343] 415:471 445:714 480:638 510:24 545:619 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:727 545:632 580:16998
+[AS7343] 415:480 445:727 480:649 510:24 545:632 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.90
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:705 545:610 580:16999
+[AS7343] 415:464 445:705 480:630 510:23 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:706 545:611 580:16999
+[AS7343] 415:465 445:706 480:630 510:23 545:611 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.82
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:476 445:721 545:625 580:16999
+[AS7343] 415:476 445:721 480:644 510:24 545:625 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.20
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:470 445:713 545:618 580:16999
+[AS7343] 415:470 445:713 480:638 510:23 545:618 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.51
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:463 445:702 545:608 580:16999
+[AS7343] 415:463 445:702 480:628 510:23 545:608 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.96
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:481 445:728 545:633 580:16999
+[AS7343] 415:481 445:728 480:651 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:723 545:628 580:16999
+[AS7343] 415:478 445:723 480:646 510:24 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:706 545:611 580:16999
+[AS7343] 415:465 445:706 480:631 510:23 545:611 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.82
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:723 545:627 580:16998
+[AS7343] 415:478 445:723 480:646 510:24 545:627 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.11
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:481 445:729 545:633 580:16998
+[AS7343] 415:481 445:729 480:651 510:24 545:633 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:715 545:619 580:16999
+[AS7343] 415:471 445:715 480:638 510:24 545:619 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:472 445:716 545:620 580:16999
+[AS7343] 415:472 445:716 480:639 510:24 545:620 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.42
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:481 445:728 545:633 580:16999
+[AS7343] 415:481 445:728 480:650 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:704 545:608 580:16999
+[AS7343] 415:464 445:704 480:629 510:23 545:608 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.96
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:466 445:707 545:613 580:16999
+[AS7343] 415:466 445:707 480:632 510:23 545:613 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.73
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:723 545:628 580:16999
+[AS7343] 415:478 445:723 480:647 510:24 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:468 445:710 545:614 580:16999
+[AS7343] 415:468 445:710 480:634 510:23 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:463 445:703 545:608 580:16999
+[AS7343] 415:463 445:703 480:629 510:23 545:608 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.96
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:472 445:716 545:621 580:16998
+[AS7343] 415:472 445:716 480:640 510:24 545:621 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.37
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:719 545:623 580:16999
+[AS7343] 415:474 445:719 480:642 510:24 545:623 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.29
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:463 445:704 545:609 580:16999
+[AS7343] 415:463 445:704 480:629 510:23 545:609 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.91
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:726 545:630 580:16999
+[AS7343] 415:480 445:726 480:648 510:24 545:630 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.98
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:726 545:630 580:16999
+[AS7343] 415:480 445:726 480:648 510:24 545:630 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.98
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:468 445:709 545:614 580:16999
+[AS7343] 415:468 445:709 480:634 510:23 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:475 445:719 545:624 580:16998
+[AS7343] 415:475 445:719 480:642 510:24 545:624 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.24
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:729 545:633 580:16999
+[AS7343] 415:482 445:729 480:651 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:718 545:622 580:16999
+[AS7343] 415:474 445:718 480:642 510:24 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.33
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:470 445:712 545:617 580:16998
+[AS7343] 415:470 445:712 480:636 510:24 545:617 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.55
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:727 545:631 580:16999
+[AS7343] 415:480 445:727 480:649 510:24 545:631 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.94
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:705 545:610 580:16999
+[AS7343] 415:465 445:705 480:630 510:23 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.87
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:705 545:611 580:16998
+[AS7343] 415:465 445:705 480:630 510:23 545:611 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.82
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:473 445:718 545:621 580:16998
+[AS7343] 415:473 445:718 480:640 510:24 545:621 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.37
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:466 445:709 545:614 580:16999
+[AS7343] 415:466 445:709 480:633 510:24 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:460 445:700 545:604 580:16999
+[AS7343] 415:460 445:700 480:623 510:23 545:604 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 28.14
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:725 545:629 580:16998
+[AS7343] 415:478 445:725 480:647 510:24 545:629 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.02
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:473 445:718 545:622 580:16999
+[AS7343] 415:473 445:718 480:641 510:24 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.33
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:461 445:702 545:606 580:16999
+[AS7343] 415:461 445:702 480:626 510:23 545:606 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 28.05
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:476 445:722 545:626 580:16998
+[AS7343] 415:476 445:722 480:644 510:24 545:626 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.15
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:724 545:628 580:16999
+[AS7343] 415:478 445:724 480:646 510:24 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:466 445:708 545:612 580:16999
+[AS7343] 415:466 445:708 480:631 510:24 545:612 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.78
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:715 545:619 580:16999
+[AS7343] 415:471 445:715 480:638 510:24 545:619 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:479 445:726 545:629 580:16998
+[AS7343] 415:479 445:726 480:647 510:24 545:629 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.02
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:460 445:700 545:604 580:16999
+[AS7343] 415:460 445:700 480:624 510:23 545:604 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 28.14
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:465 445:708 545:612 580:16999
+[AS7343] 415:465 445:708 480:631 510:24 545:612 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.78
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:477 445:724 545:627 580:16998
+[AS7343] 415:477 445:724 480:645 510:24 545:627 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.11
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:462 445:703 545:608 580:16999
+[AS7343] 415:462 445:703 480:627 510:23 545:608 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.96
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:462 445:702 545:607 580:16999
+[AS7343] 415:462 445:702 480:626 510:23 545:607 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 28.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:725 545:629 580:16999
+[AS7343] 415:478 445:725 480:647 510:24 545:629 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.03
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:470 445:713 545:619 580:16999
+[AS7343] 415:470 445:713 480:637 510:23 545:619 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:462 445:702 545:609 580:16999
+[AS7343] 415:462 445:702 480:628 510:23 545:609 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.91
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:728 545:633 580:16999
+[AS7343] 415:482 445:728 480:651 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:484 445:729 545:637 580:16999
+[AS7343] 415:484 445:729 480:654 510:23 545:637 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:472 445:712 545:621 580:16999
+[AS7343] 415:472 445:712 480:640 510:23 545:621 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.37
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:486 445:730 545:639 580:16998
+[AS7343] 415:486 445:730 480:657 510:23 545:639 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.88
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.60
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:488 445:734 545:642 580:16998
+[AS7343] 415:488 445:734 480:660 510:24 545:642 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.48
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:711 545:619 580:16999
+[AS7343] 415:471 445:711 480:638 510:23 545:619 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:724 545:632 580:16998
+[AS7343] 415:480 445:724 480:650 510:23 545:632 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.90
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:489 445:735 545:643 580:16998
+[AS7343] 415:489 445:735 480:660 510:24 545:643 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.44
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:710 545:617 580:16999
+[AS7343] 415:471 445:710 480:638 510:23 545:617 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.55
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:715 545:622 580:16999
+[AS7343] 415:474 445:715 480:642 510:23 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.33
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:485 445:730 545:638 580:16999
+[AS7343] 415:485 445:730 480:656 510:23 545:638 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.64
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:475 445:716 545:624 580:16999
+[AS7343] 415:475 445:716 480:643 510:23 545:624 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.24
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:470 445:709 545:617 580:16998
+[AS7343] 415:470 445:709 480:637 510:23 545:617 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.55
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:489 445:735 545:642 580:16998
+[AS7343] 415:489 445:735 480:659 510:23 545:642 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.48
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:726 545:634 580:16999
+[AS7343] 415:482 445:726 480:652 510:23 545:634 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.81
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:710 545:618 580:16999
+[AS7343] 415:471 445:710 480:638 510:23 545:618 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.51
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:485 445:730 545:637 580:16998
+[AS7343] 415:485 445:730 480:655 510:23 545:637 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:487 445:734 545:641 580:16998
+[AS7343] 415:487 445:734 480:659 510:23 545:641 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.52
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:720 545:628 580:16999
+[AS7343] 415:478 445:720 480:646 510:23 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:720 545:628 580:16999
+[AS7343] 415:478 445:720 480:647 510:23 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:488 445:733 545:641 580:16998
+[AS7343] 415:488 445:733 480:658 510:23 545:641 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.52
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:472 445:712 545:620 580:16999
+[AS7343] 415:472 445:712 480:640 510:23 545:620 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.42
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:710 545:618 580:16999
+[AS7343] 415:471 445:710 480:637 510:23 545:618 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.51
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:481 445:723 545:631 580:16999
+[AS7343] 415:481 445:723 480:649 510:23 545:631 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.94
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:723 545:631 580:16999
+[AS7343] 415:480 445:723 480:649 510:23 545:631 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.94
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:470 445:709 545:618 580:16999
+[AS7343] 415:470 445:709 480:637 510:23 545:618 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.51
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:486 445:731 545:639 580:16998
+[AS7343] 415:486 445:731 480:656 510:23 545:639 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.60
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:488 445:734 545:641 580:16999
+[AS7343] 415:488 445:734 480:659 510:23 545:641 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.52
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:477 445:718 545:625 580:16999
+[AS7343] 415:477 445:718 480:645 510:23 545:625 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.20
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:479 445:721 545:628 580:16998
+[AS7343] 415:479 445:721 480:647 510:23 545:628 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:488 445:733 545:640 580:16999
+[AS7343] 415:488 445:733 480:658 510:24 545:640 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.56
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:710 545:619 580:16999
+[AS7343] 415:471 445:710 480:638 510:23 545:619 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:711 545:619 580:16998
+[AS7343] 415:471 445:711 480:639 510:23 545:619 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.46
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:725 545:632 580:16998
+[AS7343] 415:482 445:725 480:651 510:23 545:632 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.90
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:478 445:721 545:628 580:16999
+[AS7343] 415:478 445:721 480:647 510:23 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:470 445:708 545:617 580:16999
+[AS7343] 415:470 445:708 480:636 510:23 545:617 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.55
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:714 545:623 580:16999
+[AS7343] 415:474 445:714 480:641 510:23 545:623 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.29
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:486 445:731 545:639 580:16999
+[AS7343] 415:486 445:731 480:657 510:23 545:639 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.60
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:475 445:715 545:622 580:16999
+[AS7343] 415:475 445:715 480:642 510:23 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.33
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:481 445:724 545:631 580:16999
+[AS7343] 415:481 445:724 480:650 510:23 545:631 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.94
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:488 445:734 545:641 580:16999
+[AS7343] 415:488 445:734 480:659 510:23 545:641 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.52
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:482 445:726 545:634 580:16999
+[AS7343] 415:482 445:726 480:652 510:23 545:634 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.81
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:474 445:714 545:622 580:16999
+[AS7343] 415:474 445:714 480:641 510:23 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.33
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:485 445:729 545:636 580:16999
+[AS7343] 415:485 445:729 480:655 510:23 545:636 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.73
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:488 445:733 545:641 580:16999
+[AS7343] 415:488 445:733 480:659 510:23 545:641 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.917
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.52
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:470 445:709 545:617 580:16999
+[AS7343] 415:470 445:709 480:636 510:23 545:617 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.55
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:479 445:721 545:628 580:16998
+[AS7343] 415:479 445:721 480:647 510:23 545:628 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:483 445:726 545:633 580:16999
+[AS7343] 415:483 445:726 480:652 510:23 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.918
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 26.85
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:469 445:707 545:614 580:16999
+[AS7343] 415:469 445:707 480:635 510:23 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:471 445:708 545:614 580:16999
+[AS7343] 415:471 445:708 480:636 510:23 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:480 445:720 545:620 580:16999
+[AS7343] 415:480 445:720 480:645 510:23 545:620 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.919
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 27.42
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:468 445:704 545:605 580:16999
+[AS7343] 415:468 445:704 480:631 510:23 545:605 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.920
+  Chlorophyll Index: 0.86
+  Anthocyanin Index: 0.000
+  Water Stress Index: 28.10
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:464 445:695 545:591 580:16999
+[AS7343] 415:464 445:695 480:626 510:23 545:591 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.921
+  Chlorophyll Index: 0.85
+  Anthocyanin Index: 0.000
+  Water Stress Index: 28.76
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.001
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:398 445:630 545:535 580:16999
+[AS7343] 415:398 445:630 480:560 510:23 545:535 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.929
+  Chlorophyll Index: 0.85
+  Anthocyanin Index: 0.000
+  Water Stress Index: 31.77
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:370 445:596 545:526 580:16999
+[AS7343] 415:370 445:596 480:526 510:24 545:526 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.932
+  Chlorophyll Index: 0.88
+  Anthocyanin Index: 0.000
+  Water Stress Index: 32.32
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:363 445:586 545:520 580:16990
+[AS7343] 415:363 445:586 480:517 510:24 545:520 580:16990 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.933
+  Chlorophyll Index: 0.89
+  Anthocyanin Index: 0.000
+  Water Stress Index: 32.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:376 445:605 545:533 580:16981
+[AS7343] 415:376 445:605 480:534 510:24 545:533 580:16981 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.931
+  Chlorophyll Index: 0.88
+  Anthocyanin Index: 0.000
+  Water Stress Index: 31.86
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:383 445:615 545:535 580:16999
+[AS7343] 415:383 445:615 480:542 510:23 545:535 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 31.77
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:365 445:590 545:514 580:16998
+[AS7343] 415:365 445:590 480:520 510:23 545:514 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.933
+  Chlorophyll Index: 0.87
+  Anthocyanin Index: 0.000
+  Water Stress Index: 33.07
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:364 445:587 545:524 580:16957
+[AS7343] 415:364 445:587 480:518 510:24 545:524 580:16957 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.933
+  Chlorophyll Index: 0.89
+  Anthocyanin Index: 0.000
+  Water Stress Index: 32.36
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:356 445:573 545:528 580:16998
+[AS7343] 415:356 445:573 480:502 510:24 545:528 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.935
+  Chlorophyll Index: 0.92
+  Anthocyanin Index: 0.000
+  Water Stress Index: 32.19
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.03
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:479 545:586 580:13281
+[AS7343] 415:239 445:479 480:456 510:15 545:586 580:13281 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.66
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:235 445:472 545:577 580:13090
+[AS7343] 415:235 445:472 480:449 510:15 545:577 580:13090 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:233 445:468 545:571 580:12959
+[AS7343] 415:233 445:468 480:445 510:15 545:571 580:12959 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:238 445:478 545:584 580:13248
+[AS7343] 415:238 445:478 480:455 510:15 545:584 580:13248 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:464 545:567 580:12871
+[AS7343] 415:231 445:464 480:442 510:15 545:567 580:12871 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:464 545:566 580:12854
+[AS7343] 415:231 445:464 480:442 510:15 545:566 580:12854 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.71
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:236 445:474 545:580 580:13138
+[AS7343] 415:236 445:474 480:452 510:15 545:580 580:13138 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.65
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:234 445:469 545:573 580:12999
+[AS7343] 415:234 445:469 480:447 510:15 545:573 580:12999 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:230 445:463 545:565 580:12813
+[AS7343] 415:230 445:463 480:440 510:15 545:565 580:12813 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:480 545:586 580:13288
+[AS7343] 415:239 445:480 480:457 510:15 545:586 580:13288 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:475 545:579 580:13148
+[AS7343] 415:237 445:475 480:452 510:15 545:579 580:13148 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.71
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:230 445:463 545:566 580:12844
+[AS7343] 415:230 445:463 480:441 510:15 545:566 580:12844 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:478 545:584 580:13228
+[AS7343] 415:237 445:478 480:454 510:15 545:584 580:13228 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.65
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:238 445:478 545:584 580:13245
+[AS7343] 415:238 445:478 480:455 510:15 545:584 580:13245 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:466 545:570 580:12926
+[AS7343] 415:232 445:466 480:444 510:15 545:570 580:12926 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:236 445:474 545:579 580:13141
+[AS7343] 415:236 445:474 480:452 510:15 545:579 580:13141 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:480 545:586 580:13291
+[AS7343] 415:239 445:480 480:456 510:15 545:586 580:13291 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:230 445:463 545:565 580:12818
+[AS7343] 415:230 445:463 480:441 510:15 545:565 580:12818 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:234 445:470 545:575 580:13023
+[AS7343] 415:234 445:470 480:448 510:15 545:575 580:13023 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.65
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:241 445:483 545:590 580:13380
+[AS7343] 415:241 445:483 480:460 510:15 545:590 580:13380 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:467 545:569 580:12924
+[AS7343] 415:232 445:467 480:445 510:15 545:569 580:12924 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.71
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:234 445:470 545:574 580:13023
+[AS7343] 415:234 445:470 480:448 510:15 545:574 580:13023 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:481 545:588 580:13331
+[AS7343] 415:239 445:481 480:458 510:16 545:588 580:13331 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:233 445:468 545:572 580:12977
+[AS7343] 415:233 445:468 480:445 510:15 545:572 580:12977 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:468 545:571 580:12959
+[AS7343] 415:232 445:468 480:445 510:15 545:571 580:12959 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:482 545:589 580:13366
+[AS7343] 415:240 445:482 480:459 510:16 545:589 580:13366 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:234 445:472 545:575 580:13054
+[AS7343] 415:234 445:472 480:449 510:15 545:575 580:13054 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:466 545:569 580:12918
+[AS7343] 415:232 445:466 480:443 510:15 545:569 580:12918 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:483 545:590 580:13389
+[AS7343] 415:240 445:483 480:460 510:16 545:590 580:13389 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:236 445:474 545:579 580:13137
+[AS7343] 415:236 445:474 480:452 510:15 545:579 580:13137 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:466 545:569 580:12911
+[AS7343] 415:232 445:466 480:444 510:15 545:569 580:12911 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:483 545:590 580:13384
+[AS7343] 415:240 445:483 480:460 510:16 545:590 580:13384 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:477 545:582 580:13216
+[AS7343] 415:237 445:477 480:454 510:15 545:582 580:13216 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.71
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:234 445:471 545:576 580:13048
+[AS7343] 415:234 445:471 480:449 510:15 545:576 580:13048 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.65
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:482 545:589 580:13354
+[AS7343] 415:240 445:482 480:459 510:16 545:589 580:13354 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:480 545:587 580:13295
+[AS7343] 415:239 445:480 480:457 510:16 545:587 580:13295 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.65
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:233 445:469 545:572 580:12985
+[AS7343] 415:233 445:469 480:447 510:15 545:572 580:12985 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:238 445:479 545:585 580:13259
+[AS7343] 415:238 445:479 480:456 510:15 545:585 580:13259 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.66
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:468 545:571 580:12960
+[AS7343] 415:232 445:468 480:445 510:15 545:571 580:12960 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:465 545:569 580:12913
+[AS7343] 415:231 445:465 480:444 510:15 545:569 580:12913 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:477 545:582 580:13217
+[AS7343] 415:237 445:477 480:454 510:15 545:582 580:13217 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.71
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:233 445:470 545:574 580:13016
+[AS7343] 415:233 445:470 480:447 510:15 545:574 580:13016 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:465 545:568 580:12879
+[AS7343] 415:231 445:465 480:442 510:15 545:568 580:12879 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:236 445:474 545:579 580:13144
+[AS7343] 415:236 445:474 480:452 510:15 545:579 580:13144 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:235 445:473 545:577 580:13088
+[AS7343] 415:235 445:473 480:450 510:15 545:577 580:13088 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:465 545:567 580:12873
+[AS7343] 415:231 445:465 480:442 510:15 545:567 580:12873 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:482 545:588 580:13348
+[AS7343] 415:240 445:482 480:459 510:15 545:588 580:13348 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:476 545:581 580:13180
+[AS7343] 415:237 445:476 480:453 510:15 545:581 580:13180 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:465 545:568 580:12888
+[AS7343] 415:231 445:465 480:443 510:15 545:568 580:12888 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:481 545:587 580:13324
+[AS7343] 415:239 445:481 480:458 510:15 545:587 580:13324 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:479 545:584 580:13254
+[AS7343] 415:237 445:479 480:456 510:15 545:584 580:13254 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:468 545:571 580:12953
+[AS7343] 415:232 445:468 480:446 510:15 545:571 580:12953 610:0 645:0 680:0 705:0 940:0 CLR:1
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:238 445:479 545:585 580:13260
+[AS7343] 415:238 445:479 480:456 510:15 545:585 580:13260 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:481 545:588 580:13330
+[AS7343] 415:239 445:481 480:458 510:15 545:588 580:13330 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:466 545:568 580:12894
+[AS7343] 415:231 445:466 480:443 510:15 545:568 580:12894 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:236 445:475 545:580 580:13148
+[AS7343] 415:236 445:475 480:452 510:15 545:580 580:13148 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:482 545:589 580:13357
+[AS7343] 415:240 445:482 480:459 510:15 545:589 580:13357 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:465 545:567 580:12877
+[AS7343] 415:231 445:465 480:443 510:15 545:567 580:12877 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.71
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:234 445:471 545:575 580:13028
+[AS7343] 415:234 445:471 480:448 510:15 545:575 580:13028 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.66
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:478 545:582 580:13225
+[AS7343] 415:237 445:478 480:455 510:15 545:582 580:13225 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.72
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:466 545:568 580:12910
+[AS7343] 415:231 445:466 480:444 510:15 545:568 580:12910 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.73
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:467 545:571 580:12945
+[AS7343] 415:232 445:467 480:445 510:15 545:571 580:12945 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:481 545:587 580:13307
+[AS7343] 415:239 445:481 480:458 510:15 545:587 580:13307 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:233 445:469 545:572 580:12988
+[AS7343] 415:233 445:469 480:447 510:15 545:572 580:12988 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.71
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:231 445:466 545:568 580:12894
+[AS7343] 415:231 445:466 480:443 510:15 545:568 580:12894 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.70
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:483 545:589 580:13355
+[AS7343] 415:240 445:483 480:459 510:16 545:589 580:13355 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:235 445:473 545:576 580:13092
+[AS7343] 415:235 445:473 480:450 510:15 545:576 580:13092 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.73
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:235 445:474 545:578 580:13095
+[AS7343] 415:235 445:474 480:451 510:15 545:578 580:13095 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.66
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:240 445:482 545:589 580:13350
+[AS7343] 415:240 445:482 480:459 510:16 545:589 580:13350 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:237 445:477 545:582 580:13192
+[AS7343] 415:237 445:477 480:453 510:15 545:582 580:13192 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:233 445:470 545:574 580:13009
+[AS7343] 415:233 445:470 480:448 510:15 545:574 580:13009 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.66
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:239 445:481 545:587 580:13320
+[AS7343] 415:239 445:481 480:458 510:15 545:587 580:13320 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.69
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:238 445:479 545:585 580:13257
+[AS7343] 415:238 445:479 480:456 510:15 545:585 580:13257 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.66
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:232 445:469 545:572 580:12966
+[AS7343] 415:232 445:469 480:446 510:15 545:572 580:12966 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.67
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+
+[DEBUG] Ch - 415:238 445:480 545:586 580:13290
+[AS7343] 415:238 445:480 480:457 510:16 545:586 580:13290 610:0 645:0 680:0 705:0 940:0 CLR:257
+
+[VEGETATION INDICES]
+  NDVI: 0.930
+  Chlorophyll Index: 1.22
+  Anthocyanin Index: 0.000
+  Water Stress Index: 22.68
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.04
+  Carotenoid Index: -0.002
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✓ Vigor: EXCELLENT - Very healthy vegetation
+  ⚠ Chlorophyll: LOW - Possible nitrogen deficiency
+  ✓ Stress: LOW - Minimal stress indicators
+  ✓ Water: ADEQUATE - Well-watered condition
+

@@ -1,0 +1,2506 @@
+--- Terminal on COM13 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16998 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16998 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:1418 445:1546 480:1328 510:47 545:2252 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:65 445:118 480:207 510:14 545:391 580:8683 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:65 445:118 480:205 510:14 545:387 580:8723 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:65 445:119 480:215 510:16 545:379 580:11483 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:10447 445:16994 480:16993 510:3920 545:16998 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:446 445:453 480:486 510:20 545:677 580:14942 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:67 445:120 480:210 510:14 545:383 580:9995 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:70 445:125 480:220 510:14 545:405 580:10592 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:68 445:122 480:214 510:14 545:394 580:10453 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:68 445:122 480:213 510:14 545:394 580:10443 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:68 445:124 480:208 510:14 545:401 580:10441 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:221 445:280 480:362 510:19 545:591 580:14633 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:16999 445:16999 480:16999 510:16997 545:16999 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:648 445:836 480:818 510:24 545:925 580:16830 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:462 445:726 480:645 510:24 545:911 580:13807 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:150 445:324 480:404 510:25 545:1005 580:13896 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:530 445:839 480:775 510:26 545:1009 580:16358 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:136 445:207 480:228 510:10 545:362 580:9505 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:357 445:522 480:461 510:22 545:555 580:13220 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:475 445:721 480:643 510:24 545:635 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:456 445:697 480:621 510:23 545:609 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:706 480:629 510:24 545:617 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:469 445:713 480:636 510:24 545:625 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:458 445:698 480:622 510:24 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:706 480:629 510:24 545:617 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:471 445:716 480:639 510:24 545:627 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:459 445:699 480:623 510:24 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:477 445:721 480:645 510:24 545:633 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:472 445:717 480:640 510:24 545:627 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:460 445:699 480:624 510:24 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:477 445:723 480:645 510:24 545:633 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:474 445:719 480:641 510:24 545:629 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:706 480:630 510:24 545:616 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:477 445:723 480:646 510:24 545:633 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:476 445:720 480:642 510:24 545:630 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:706 480:630 510:24 545:616 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:477 445:723 480:646 510:24 545:633 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:463 445:703 480:627 510:24 545:613 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:705 480:629 510:24 545:615 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:477 445:722 480:644 510:24 545:631 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:463 445:703 480:628 510:24 545:613 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:463 445:704 480:628 510:24 545:613 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:478 445:724 480:646 510:24 545:633 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:706 480:631 510:24 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:463 445:703 480:627 510:24 545:611 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:479 445:725 480:648 510:24 545:635 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:467 445:708 480:633 510:24 545:618 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:463 445:702 480:627 510:24 545:612 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:481 445:727 480:649 510:25 545:635 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:469 445:711 480:635 510:24 545:620 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:473 445:716 480:639 510:24 545:625 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:480 445:727 480:648 510:25 545:635 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:470 445:713 480:636 510:24 545:621 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:471 445:712 480:637 510:24 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:480 445:726 480:648 510:25 545:635 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:460 445:701 480:626 510:24 545:609 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:470 445:713 480:637 510:24 545:621 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:480 445:726 480:648 510:25 545:634 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:462 445:701 480:626 510:24 545:609 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:471 445:713 480:636 510:24 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:472 445:715 480:638 510:24 545:623 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:462 445:701 480:626 510:24 545:610 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:471 445:713 480:637 510:24 545:621 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:472 445:715 480:638 510:24 545:623 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:462 445:701 480:626 510:24 545:609 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:471 445:714 480:638 510:24 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:473 445:716 480:640 510:25 545:626 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:463 445:703 480:628 510:24 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:482 445:729 480:652 510:25 545:640 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:472 445:714 480:639 510:25 545:625 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:474 445:718 480:643 510:25 545:628 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:482 445:730 480:652 510:25 545:639 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:470 445:713 480:638 510:25 545:623 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:475 445:719 480:643 510:25 545:630 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:482 445:729 480:651 510:25 545:639 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:470 445:713 480:637 510:24 545:623 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:476 445:720 480:644 510:25 545:631 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:482 445:729 480:652 510:25 545:639 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:705 480:630 510:24 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:476 445:721 480:644 510:25 545:631 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:482 445:729 480:652 510:25 545:639 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:705 480:630 510:24 545:616 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:477 445:721 480:644 510:25 545:632 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:469 445:711 480:635 510:24 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:704 480:631 510:24 545:616 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:477 445:722 480:645 510:25 545:631 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:469 445:711 480:636 510:25 545:621 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:705 480:630 510:24 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:481 445:728 480:651 510:25 545:638 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:469 445:711 480:636 510:24 545:621 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:706 480:630 510:25 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:481 445:728 480:651 510:25 545:638 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:469 445:712 480:636 510:25 545:621 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:705 480:630 510:24 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:483 445:729 480:652 510:25 545:639 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:470 445:713 480:637 510:25 545:622 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:476 445:721 480:645 510:25 545:630 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:482 445:730 480:652 510:25 545:639 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:705 480:630 510:24 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:475 445:720 480:642 510:25 545:629 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:483 445:731 480:652 510:25 545:640 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:704 480:630 510:24 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:474 445:717 480:642 510:25 545:627 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:483 445:730 480:653 510:25 545:640 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:464 445:704 480:630 510:24 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:472 445:716 480:639 510:25 545:625 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:476 445:722 480:645 510:25 545:630 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:706 480:631 510:24 545:614 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:470 445:713 480:637 510:25 545:623 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:479 445:725 480:648 510:25 545:634 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:466 445:707 480:632 510:25 545:617 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:481 445:727 480:650 510:25 545:637 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:481 445:727 480:650 510:25 545:636 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:467 445:709 480:633 510:24 545:619 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:480 445:725 480:648 510:25 545:634 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:482 445:729 480:651 510:25 545:638 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:707 480:631 510:24 545:616 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:3
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:478 445:722 480:646 510:25 545:632 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:483 445:730 480:653 510:25 545:640 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:465 445:705 480:631 510:24 545:615 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:475 445:719 480:643 510:25 545:628 580:16999 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
+[AS7343] 415:483 445:731 480:652 510:25 545:640 580:16998 610:0 645:0 680:0 705:0 940:0 CLR:259
+
+[VEGETATION INDICES]
+  NDVI: 0.000
+  Chlorophyll Index: 0.00
+  Anthocyanin Index: 0.000
+  Water Stress Index: 0.00
+  Red:Far-Red Ratio: 0.00
+  Photosynthetic Activity: 0.00
+  Carotenoid Index: 0.000
+  Clear Channel (Illumination): 0
+
+[PLANT HEALTH ASSESSMENT]
+  ✗ Vigor: POOR - Severe stress or non-vegetation
+  ✗ Chlorophyll: VERY LOW - Nutrient stress
+  ✓ Stress: LOW - Minimal stress indicators
+  ✗ Water: SEVERE - Critical water deficit
+
